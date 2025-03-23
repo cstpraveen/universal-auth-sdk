@@ -1,7 +1,6 @@
 import { authenticateOAuth } from "../src/providers/oauth";
 
 test("OAuth authentication redirects correctly", () => {
-  // Properly mock window.location.href
   Object.defineProperty(window, "location", {
     writable: true,
     value: { href: "" },

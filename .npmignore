@@ -3,4 +3,5 @@ tests
 .github
 example
 dist/*.map
+dist/
 src
