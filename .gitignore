@@ -5,3 +5,7 @@ dist/
 .idea/
 .vscode/
 coverage/
+
+
+# Others
+FEATURES.md
