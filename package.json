@@ -1,6 +1,6 @@
 {
     "name": "universal-auth-sdk",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A Universal Authentication SDK for React supporting OAuth, OpenID, SAML, and Kerberos.",
     "main": "dist/index.js",
     "module": "dist/index.esm.js",
